@@ -53,6 +53,7 @@ textarea {
 	padding: 0px;
 	background: transparent !important;
 	/* don't hide hastebox */
+	white-space: pre-wrap;
 }
 
 /* key */
